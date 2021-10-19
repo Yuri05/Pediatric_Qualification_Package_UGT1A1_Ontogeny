@@ -10,5 +10,5 @@ Raltegravir PBPK predictions in children were evaluated using pharmacokinetic (P
 
   
 
-The pediatric PBPK model predicted the clearance values of raltegravir observed in pediatric studies reasonably across all available age groups, ranging from 1 month to 11.9 years old. The ratios of mean predicted over observed area under the observed plasma concentrations (AUC) are illustrated in the table below as well as in the predicted versus observed AUC ratio plot, showing that most predictions in children were within 2-fold error of observed values.
+The pediatric PBPK model predicted the clearance values of raltegravir observed in pediatric studies reasonably across all available age groups, ranging from 3.5 month to 15.2 years old. The ratios of mean predicted over observed area under the observed plasma concentrations (AUC) are illustrated in the table below as well as in the predicted versus observed AUC ratio plot, showing that most predictions in children were within 2-fold error of observed values.
 
