@@ -6,7 +6,7 @@ The models were evaluated by ratio plots of area under the plasma concentration-
 
 
 
-Eq. 1: GMFE=10^((Σ|log10(pred PK parameter∕obs PK parameter)|)∕n)
+Eq. 1: $$ {\Huge  GMFE = 10^{\frac{\sum(|log(\frac{Pred}{Obs})|)}{n}} }  $$
 
 
 
